@@ -23,6 +23,7 @@ public class Question4
         System.out.println(sb);  //poraming
 
 
+
         // *    Approach 02 :- By Using nested for loop     * //
         String str1 = "programming";
         StringBuilder sb1 = new StringBuilder();
@@ -47,8 +48,8 @@ public class Question4
        System.out.println(sb1);  //poraming
 
 
-    // *    Approach 03 :- By Using LinkedHashSet     * //
 
+    // *    Approach 03 :- By Using LinkedHashSet     * //
     String str3 = "programming";
     StringBuffer sf =new StringBuffer();
     HashSet lhs =new LinkedHashSet();

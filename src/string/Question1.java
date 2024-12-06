@@ -1,5 +1,5 @@
 
-
+	//* 	WAJP to reverse the String 		*//
 public class Question1 
 {
 	public static void main(String[] args) 
