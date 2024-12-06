@@ -1,4 +1,4 @@
-package string;
+
 
 		/* WAJP to remove whitespace from a given String */
 

@@ -1,4 +1,4 @@
-package string;
+
 
 		/* Write a java Program to remove the special characters from given String*/
 		  
